@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FrosT25k
-- 👀 I’m interested in Guns and VideoGames
-- 🌱 I’m currently learning WebDev
-- 💞️ I’m looking to collaborate on stuff
+- 👀 I’m interested in ML(wow how original ik)
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on anything
 - 📫 reach me on @_frost_69k on instagram
 
 <!---
