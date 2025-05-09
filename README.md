@@ -1,8 +1,7 @@
  👋 Hi, I’m @FrosT25k
-- 👀 I’m interested in Guns and VideoGames
-- 🌱 I’m currently learning WebDev
+- 👀 I’m interested in VideoGames
+- 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on stuff
-- 📫 reach me on @_frost_69k on instagram
 
 <!---
 FrosT25k/FrosT25k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
